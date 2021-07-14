@@ -1,0 +1,5 @@
+com\shoryukane\loans\LoansApplication.class
+com\shoryukane\loans\model\Customer.class
+com\shoryukane\loans\controller\LoansController.class
+com\shoryukane\loans\repository\LoansRepository.class
+com\shoryukane\loans\model\Loans.class
